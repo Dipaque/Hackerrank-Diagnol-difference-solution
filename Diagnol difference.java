@@ -1,6 +1,6 @@
 import java.util*;
 public class Diagnol{
-public static void main(string[] args){
+public static void main(String[] args){
 int sumr=0;
 	int suml=0;
 int[][] a={{5,8},{3,4}};
